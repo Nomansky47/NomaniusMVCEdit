@@ -11,3 +11,16 @@ D:\GitHub\NomaniusDBEdit\NomaniusDB\obj\Debug\net6.0\NomaniusMVC.dll
 D:\GitHub\NomaniusDBEdit\NomaniusDB\obj\Debug\net6.0\refint\NomaniusMVC.dll
 D:\GitHub\NomaniusDBEdit\NomaniusDB\obj\Debug\net6.0\NomaniusMVC.pdb
 D:\GitHub\NomaniusDBEdit\NomaniusDB\obj\Debug\net6.0\ref\NomaniusMVC.dll
+D:\GitHub\NomaniusMVCEdit\NomaniusDB\bin\Debug\net6.0\NomaniusMVC.deps.json
+D:\GitHub\NomaniusMVCEdit\NomaniusDB\bin\Debug\net6.0\NomaniusMVC.dll
+D:\GitHub\NomaniusMVCEdit\NomaniusDB\bin\Debug\net6.0\NomaniusMVC.pdb
+D:\GitHub\NomaniusMVCEdit\NomaniusDB\obj\Debug\net6.0\NomaniusMVC.csproj.AssemblyReference.cache
+D:\GitHub\NomaniusMVCEdit\NomaniusDB\obj\Debug\net6.0\NomaniusMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\NomaniusMVCEdit\NomaniusDB\obj\Debug\net6.0\NomaniusMVC.AssemblyInfoInputs.cache
+D:\GitHub\NomaniusMVCEdit\NomaniusDB\obj\Debug\net6.0\NomaniusMVC.AssemblyInfo.cs
+D:\GitHub\NomaniusMVCEdit\NomaniusDB\obj\Debug\net6.0\NomaniusMVC.csproj.CoreCompileInputs.cache
+D:\GitHub\NomaniusMVCEdit\NomaniusDB\obj\Debug\net6.0\NomaniusMVC.sourcelink.json
+D:\GitHub\NomaniusMVCEdit\NomaniusDB\obj\Debug\net6.0\NomaniusMVC.dll
+D:\GitHub\NomaniusMVCEdit\NomaniusDB\obj\Debug\net6.0\refint\NomaniusMVC.dll
+D:\GitHub\NomaniusMVCEdit\NomaniusDB\obj\Debug\net6.0\NomaniusMVC.pdb
+D:\GitHub\NomaniusMVCEdit\NomaniusDB\obj\Debug\net6.0\ref\NomaniusMVC.dll

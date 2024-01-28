@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\NomaniusDBEdit\\NomaniusDB\\NomaniusMVC.csproj": {}
+    "D:\\GitHub\\NomaniusMVCEdit\\NomaniusDB\\NomaniusMVC.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\NomaniusDBEdit\\NomaniusDB\\NomaniusMVC.csproj": {
+    "D:\\GitHub\\NomaniusMVCEdit\\NomaniusDB\\NomaniusMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\NomaniusDBEdit\\NomaniusDB\\NomaniusMVC.csproj",
+        "projectUniqueName": "D:\\GitHub\\NomaniusMVCEdit\\NomaniusDB\\NomaniusMVC.csproj",
         "projectName": "NomaniusMVC",
-        "projectPath": "D:\\GitHub\\NomaniusDBEdit\\NomaniusDB\\NomaniusMVC.csproj",
+        "projectPath": "D:\\GitHub\\NomaniusMVCEdit\\NomaniusDB\\NomaniusMVC.csproj",
         "packagesPath": "C:\\Users\\Nikita\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\NomaniusDBEdit\\NomaniusDB\\obj\\",
+        "outputPath": "D:\\GitHub\\NomaniusMVCEdit\\NomaniusDB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nikita\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Components": {
+              "target": "Package",
+              "version": "[6.0.26, )"
+            },
             "Microsoft.AspNetCore.Http": {
               "target": "Package",
               "version": "[2.2.2, )"
