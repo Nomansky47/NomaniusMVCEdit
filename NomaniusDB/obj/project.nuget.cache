@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ySf0mll/ZJVULq6iYoWfor9ITUn6khXdoq8xDIqcO9b0YQ2OmEdWFVBPhVkUlJvOH28jDFWc3kymrsg6Pp+e/w==",
+  "dgSpecHash": "sOy+i6/eVIOVFHzNSJ7k/l+x7kV0apRMkjFj1Uyy82tGKezlpSe9V4Bde42GM27/QBucaC9y/j6dso+AbeVj2A==",
   "success": true,
   "projectFilePath": "D:\\GitHub\\NomaniusMVCEdit\\NomaniusDB\\NomaniusMVC.csproj",
   "expectedPackageFiles": [
@@ -183,6 +183,8 @@
     "C:\\Users\\Nikita\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\Nikita\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\Nikita\\.nuget\\packages\\newtonsoft.json.bson\\1.0.1\\newtonsoft.json.bson.1.0.1.nupkg.sha512",
+    "C:\\Users\\Nikita\\.nuget\\packages\\npgsql\\6.0.10\\npgsql.6.0.10.nupkg.sha512",
+    "C:\\Users\\Nikita\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\6.0.22\\npgsql.entityframeworkcore.postgresql.6.0.22.nupkg.sha512",
     "C:\\Users\\Nikita\\.nuget\\packages\\nuget.common\\6.6.1\\nuget.common.6.6.1.nupkg.sha512",
     "C:\\Users\\Nikita\\.nuget\\packages\\nuget.configuration\\6.6.1\\nuget.configuration.6.6.1.nupkg.sha512",
     "C:\\Users\\Nikita\\.nuget\\packages\\nuget.dependencyresolver.core\\6.6.1\\nuget.dependencyresolver.core.6.6.1.nupkg.sha512",

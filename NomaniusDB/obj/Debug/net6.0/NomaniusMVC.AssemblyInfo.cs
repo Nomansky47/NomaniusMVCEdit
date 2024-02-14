@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NomaniusMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ee8967b598a31494477d7b781eb3f946d6df87d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be7414a58878324c85a21b06d6eef75025e079e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("NomaniusMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NomaniusMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

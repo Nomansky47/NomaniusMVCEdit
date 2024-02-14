@@ -38,6 +38,9 @@ namespace NomaniusMVC
         {
             thisServices.AddDbContextPool<T>(options => options.UseMySql(connectionString,ServerVersion.AutoDetect(connectionString)));
         }
-
+        public static void AddPostgresContext<T>(IServiceCollection thisServices, string connectionString) where T : DbContext
+        {
+            thisServices.AddDbContext<T>(options => options.UseNpgsql(connectionString));
+        }
     }
 }
